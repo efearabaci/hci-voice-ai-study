@@ -39,7 +39,7 @@ The core research hypothesis follows the interaction model:
 
 1. **Clone the repo:**
 ```bash
-git clone https://github.com/your-username/hci-voice-ai-study.git
+git clone https://github.com/efearabaci/hci-voice-ai-study.git
 
 ```
 
