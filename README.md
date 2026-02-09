@@ -1,6 +1,6 @@
 # Voice-AI & Human Perception: An HCI Research Tool
 
-This repository contains a specialized React application developed for my **Senior Year Research Project** at Biruni University. The platform is designed to conduct controlled HCI (Human-Computer Interaction) experiments on how different age groups—specifically **Gen Z** and **Seniors (60+)**—process AI-generated vs. Human voices in short-form video advertising.
+This repository contains a specialized React application developed for my Senior Year Research Project at Biruni University. The platform is designed to conduct controlled HCI (Human-Computer Interaction) experiments on how different age groups (specifically Gen Z and Seniors) process AI-generated vs. Human voices in short-form video advertising.
 
 ---
 
