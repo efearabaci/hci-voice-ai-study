@@ -19,7 +19,6 @@ The core research hypothesis follows the interaction model:
 ## Technical Features
 
 * **Automated A/B/C Testing:** Randomizes participants into three groups: Human Voice, Hidden AI Voice, and Disclosed AI Voice.
-* **RT Logger:** High-resolution timestamp logging for visual reaction tests.
 * **A11y Optimized UI:** Designed with high-contrast elements and large-scale typography for elderly accessibility.
 * **Firebase Integration:** Serverless data collection using Firestore for real-time results.
 * **Likert Scale Integration:** Custom survey modules to measure subjective brand trust and perceived "creepiness."
